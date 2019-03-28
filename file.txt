@@ -1,0 +1,9 @@
+Insula,concert at theatre dsfdfggsd,1.2.2018,19:30,2000,http://www.teatrulnatiosdfggfdnalcluj.ro/piesa-610/insula/
+Insula,concert at theatre,18.2.2018,19:30,2001,http://www.teatrulnationalcluj.ro/piesa-610/insula/
+Tomb Raider,movie,11.4.2018,20:0,300,https://www.cinemacity.ro/films/tomb-raider-inceputul#/buy-tickets-by-film?in-cinema=cluj&at=2018-04-09&for-movie=2540s3r&view-mode=list
+TDC,careers,19.4.2018,10:0,2100,http://www.targuldecariere.ro/cluj-it/
+Intrare gratuita gradina botanica,botanic garden,29.4.2018,10:30,1201,https://www.facebook.com/events/2092891480930105/
+Cluj aniversary,aniversary,17.5.2018,12:45,12000,https://www.facebook.com/zileleclujului/
+Electric castle,music festival,12.6.2018,19:30,2.32322e+06,https://electriccastle.ro/
+Neversea,music festival,5.7.2018,17:0,432456,https://www.neversea.com/en
+Untold,music festival,19.7.2018,17:30,1.80563e+10,https://untold.com/en?gclid=CjwKCAjwhcjVBRBHEiwAoDe5xyt9zM8U_YA-YC2AXbllazlXqc2aZ0aQr0GCHEdxtH7rWwUf7KY91RoCi7UQAvD_BwE
